@@ -15,7 +15,7 @@ files automatically into folders based on their file type.
 ## Sample Output
 
 ### Program Execution in Terminal
-![File Organizer CLI Output](screenshots/terminal_output.png)
+![File Organizer CLI Output](screenshorts/terminal_output.png)
 
 ## Design Decisions
 - Used Python for simplicity and portability
