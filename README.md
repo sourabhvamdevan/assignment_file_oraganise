@@ -9,4 +9,5 @@ files automatically into folders based on their file type.
 1. Ensure Python 3 is installed
 2. Save the file as `file_organizer.py`
 3. Open terminal and navigate to the file location
-4. Run:
+4. Note the file will ask for adimistrator permissions you have to grant those permissions
+5. Now run the file
